@@ -1,0 +1,7 @@
+open_legacy\config\SwaggerConfig.class
+open_legacy\model\Item.class
+open_legacy\Spring_applications.class
+open_legacy\controller\Inventory_controller.class
+open_legacy\repository\Item_repository.class
+open_legacy\service\Update_item_amount.class
+open_legacy\service\Inventory_service.class
